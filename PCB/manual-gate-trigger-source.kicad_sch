@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 64d6412c-bfad-42df-9ed7-bcc6cbff0470)
+
+  (paper "A4")
+
+  (title_block
+    (title "Manual gate/trigger source")
+    (rev "1")
+    (company "moPsy")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
