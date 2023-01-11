@@ -3210,7 +3210,7 @@
     (uuid 9bfdf296-af5e-4848-b739-c38d7b9b918f)
     (property "Reference" "SW?" (id 0) (at 29.21 34.0192 0))
     (property "Value" "SW_Push" (id 1) (at 29.21 36.5561 0))
-    (property "Footprint" "" (id 2) (at 29.21 35.56 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (id 2) (at 29.21 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.21 35.56 0)
@@ -4025,7 +4025,7 @@
       (reference "SW?") (unit 1) (value "ON/OFF/ON") (footprint "")
     )
     (path "/9bfdf296-af5e-4848-b739-c38d7b9b918f"
-      (reference "SW?") (unit 1) (value "SW_Push") (footprint "")
+      (reference "SW?") (unit 1) (value "SW_Push") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/a4fc9fae-2c82-47bd-aa1f-2cb48ede91d0"
       (reference "SW?") (unit 1) (value "SW_SPST") (footprint "")
