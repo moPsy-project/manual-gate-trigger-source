@@ -2974,7 +2974,7 @@
     (in_bom yes) (on_board yes)
     (uuid 6ac9ecf6-cf6e-48b6-848c-5409241825dd)
     (property "Reference" "R?" (id 0) (at 234.95 41.91 90))
-    (property "Value" "10k" (id 1) (at 234.95 44.45 90))
+    (property "Value" "2k2" (id 1) (at 234.95 44.45 90))
     (property "Footprint" "" (id 2) (at 234.95 41.148 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3890,7 +3890,7 @@
       (reference "R?") (unit 1) (value "1k") (footprint "")
     )
     (path "/6ac9ecf6-cf6e-48b6-848c-5409241825dd"
-      (reference "R?") (unit 1) (value "10k") (footprint "")
+      (reference "R?") (unit 1) (value "2k2") (footprint "")
     )
     (path "/7f9bc013-8585-4f5d-ba6c-e1760bb83c98"
       (reference "R?") (unit 1) (value "10k") (footprint "")
