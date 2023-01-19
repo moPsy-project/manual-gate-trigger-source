@@ -320,6 +320,50 @@
     [
       "64d6412c-bfad-42df-9ed7-bcc6cbff0470",
       ""
+    ],
+    [
+      "5e147908-dd0e-44a6-bf7b-e0f4f3b88ce0",
+      "Gate Trigger Output 1"
+    ],
+    [
+      "4d130511-3de2-468d-9ad3-9fd4dd47645e",
+      "Gate Trigger Output 2"
+    ],
+    [
+      "b83b5c1b-da69-40b5-857e-949eb4f1eab8",
+      "Gate Trigger Output 3"
+    ],
+    [
+      "b0ca186f-8794-49d8-ae6e-2d447887c3e3",
+      "Gate Trigger Output 4"
+    ],
+    [
+      "a3ae0026-c4ec-4665-baac-1f244ac10780",
+      "Gate Length Generator 1"
+    ],
+    [
+      "0631fa42-9f9f-4966-8a03-6db6b249ef2a",
+      "Gate Length Generator 2"
+    ],
+    [
+      "ffbe4090-69c4-409b-9d63-9c6b1193689f",
+      "Gate Length Generator 3"
+    ],
+    [
+      "a8014c65-0c58-4251-9031-5c5e91cdfe2c",
+      "Gate Length Generator 4"
+    ],
+    [
+      "fb6762b1-53b2-4253-9ea8-56c83353230a",
+      "CV Input 1"
+    ],
+    [
+      "199ac3ae-221a-47d5-9e9f-e559d819f98b",
+      "CV Input 2"
+    ],
+    [
+      "dfca1d14-f5c9-49c7-bdd1-db3f878ec903",
+      "CV Input 3"
     ]
   ],
   "text_variables": {}
