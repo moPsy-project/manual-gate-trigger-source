@@ -766,7 +766,7 @@
     (uuid 3a7d1a08-d85d-4833-8e60-b7437482db45)
     (property "Reference" "RV?" (id 0) (at 121.92 45.72 90))
     (property "Value" "1M" (id 1) (at 121.92 48.26 90))
-    (property "Footprint" "" (id 2) (at 127 43.18 0)
+    (property "Footprint" "mopsy:Potentiometer_Befaco_12mm_Single_Vertical" (id 2) (at 127 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 127 43.18 0)
