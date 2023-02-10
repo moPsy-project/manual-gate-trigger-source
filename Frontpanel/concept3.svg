@@ -10,10 +10,13 @@
    sodipodi:docname="concept3.svg"
    id="svg1308"
    version="1.1"
-   viewBox="0 0 60.72 128.5"
-   height="485.6692913385827"
-   width="229.49291338582677"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   viewBox="0 0 90.379784 128.59936"
+   height="486.04483"
+   width="341.5929"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="/home/tux/moPsy/Modules/manual-gate-trigger-source/Frontpanel/concept3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs1302" />
   <sodipodi:namedview
@@ -24,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="50.949635"
-     inkscape:cy="260.47851"
+     inkscape:cx="50.015659"
+     inkscape:cy="261.33446"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -36,9 +39,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false">
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
-       position="-24.063101,102.06799"
+       position="-24.310215,101.94088"
        orientation="1,0"
        id="guide1031" />
   </sodipodi:namedview>
@@ -50,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,21 +65,23 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Parameter Board"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.24711443,0.22647023)">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.17877;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.145886;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect125"
-       width="29.82123"
-       height="128.32123"
-       x="70.716286"
-       y="-0.13708508"
-       ry="3.2960324" />
+       width="19.854115"
+       height="128.35411"
+       x="70.699844"
+       y="-0.15352723"
+       ry="3.2968771" />
   </g>
   <g
      inkscape:groupmode="layer"
      inkscape:label="Main color"
      id="g3599"
-     style="opacity:0.313971">
+     style="opacity:0.313971"
+     transform="translate(-0.24711443,0.22647023)">
     <g
        id="g1114">
       <g
@@ -508,12 +517,14 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1"
+     transform="translate(-0.24711443,0.22647023)" />
   <g
      inkscape:label="Panel"
      id="g1317"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.24711443,0.22647023)">
     <g
        inkscape:groupmode="layer"
        inkscape:label="Panel"
@@ -534,7 +545,8 @@
      inkscape:label="Panel"
      id="g1334"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.24711443,0.22647023)">
     <g
        inkscape:groupmode="layer"
        inkscape:label="Panel"
@@ -555,7 +567,8 @@
      inkscape:groupmode="layer"
      inkscape:label="Jacks Group"
      id="jacks-group"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.24711443,0.22647023)">
     <g
        inkscape:groupmode="layer"
        inkscape:label="Man Input"
@@ -616,12 +629,14 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Courtyards"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(-0.24711443,0.22647023)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Outlines"
-     style="display:inline;opacity:0.996">
+     style="display:inline;opacity:0.996"
+     transform="translate(-0.24711443,0.22647023)">
     <g
        id="g1000"
        transform="translate(0.52916663,4.8267304)">
@@ -752,7 +767,7 @@
     </g>
     <g
        id="g1089"
-       transform="rotate(180,32.46086,57.91463)">
+       transform="rotate(180,29.960859,59.276409)">
       <rect
          style="display:inline;opacity:0.313971;fill:none;stroke:#767676;stroke-width:0.265;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1085"
@@ -769,7 +784,7 @@
     </g>
     <g
        id="g1238"
-       transform="translate(118.53351,-7.1118228)">
+       transform="rotate(-90,20.198488,-33.900751)">
       <path
          id="path1220"
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -790,7 +805,7 @@
     </g>
     <g
        id="g1246"
-       transform="translate(118.9201,11.734277)">
+       transform="rotate(-90,30.238899,-23.86034)">
       <path
          id="path1240"
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -811,7 +826,7 @@
     </g>
     <g
        id="g1254"
-       transform="translate(118.73953,30.580377)">
+       transform="rotate(-90,40.27931,-13.819929)">
       <path
          id="path1248"
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -832,7 +847,7 @@
     </g>
     <g
        id="g1270"
-       transform="translate(118.53351,-1.173789)">
+       transform="rotate(-90,25.23934,21.740368)">
       <path
          id="path1256"
          style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -856,7 +871,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Main Board"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.24711443,0.22647023)">
     <rect
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25423;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1098"
@@ -869,7 +885,8 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Knobs Group"
-     id="knobs-group">
+     id="knobs-group"
+     transform="translate(-0.24711443,0.22647023)">
     <g
        inkscape:groupmode="layer"
        inkscape:label="Gate Length 1"
