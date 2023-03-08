@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "moPsy")(type "Legacy")(uri "/home/tux/moPsy/moPsy-KiCad-resources/moPsy.lib")(options "")(descr ""))
+)
