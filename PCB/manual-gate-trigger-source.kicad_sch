@@ -1404,7 +1404,7 @@
   (symbol (lib_id "Device:R_Potentiometer") (at 60.96 140.97 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00c55d90-aeb9-4fea-9801-968dc8b25840)
-    (property "Reference" "RV?" (at 62.738 140.1353 0)
+    (property "Reference" "RV2" (at 62.738 140.1353 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 62.738 142.6722 0)
@@ -1422,7 +1422,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "RV?") (unit 1)
+          (reference "RV2") (unit 1)
         )
       )
     )
@@ -1431,7 +1431,7 @@
   (symbol (lib_id "power:GND") (at 280.67 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0b44046c-a9b3-4f95-b288-42ea46f6c2fe)
-    (property "Reference" "#PWR?" (at 280.67 146.05 0)
+    (property "Reference" "#PWR09" (at 280.67 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 280.67 143.51 0)
@@ -1447,7 +1447,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -1456,7 +1456,7 @@
   (symbol (lib_id "Device:C") (at 239.395 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1433fa6c-e7c1-4f53-aa96-00ef63917493)
-    (property "Reference" "C5" (at 237.49 125.73 0)
+    (property "Reference" "C8" (at 237.49 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 237.49 128.27 0)
@@ -1473,7 +1473,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C5") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -1482,7 +1482,7 @@
   (symbol (lib_id "Device:R") (at 76.2 147.32 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1557de3a-925b-49fd-96fb-6a1f7e2ffe5e)
-    (property "Reference" "R?" (at 76.2 151.13 90)
+    (property "Reference" "R5" (at 76.2 151.13 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 76.2 153.67 90)
@@ -1499,7 +1499,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "R?") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -1508,7 +1508,7 @@
   (symbol (lib_id "Device:C") (at 198.12 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1811d0ae-d05b-462c-b226-494a1c489f02)
-    (property "Reference" "C?" (at 201.93 140.9699 0)
+    (property "Reference" "C3" (at 201.93 140.9699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 201.93 143.5099 0)
@@ -1525,7 +1525,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C?") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -1534,7 +1534,7 @@
   (symbol (lib_id "Device:FerriteBead") (at 208.28 146.05 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a439e61-dffd-4ebc-baf1-84b204bd137f)
-    (property "Reference" "FB?" (at 208.28 151.13 90)
+    (property "Reference" "FB2" (at 208.28 151.13 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "FerriteBead" (at 208.28 153.67 90)
@@ -1551,7 +1551,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "FB?") (unit 1)
+          (reference "FB2") (unit 1)
         )
       )
     )
@@ -1560,7 +1560,7 @@
   (symbol (lib_id "power:+12V") (at 127 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1ae3faff-2a27-428e-abae-d3be6c4066d8)
-    (property "Reference" "#PWR?" (at 127 125.73 0)
+    (property "Reference" "#PWR04" (at 127 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 127 118.11 0)
@@ -1576,7 +1576,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -1585,7 +1585,7 @@
   (symbol (lib_id "Device:R") (at 57.15 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25ec5900-d9ff-4693-9b24-9843c2b81d78)
-    (property "Reference" "R?" (at 58.928 129.9753 0)
+    (property "Reference" "R3" (at 58.928 129.9753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22k" (at 58.928 132.5122 0)
@@ -1602,7 +1602,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "R?") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -1611,7 +1611,7 @@
   (symbol (lib_id "Device:FerriteBead") (at 208.28 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 306c79b4-6f48-4706-ac5d-d7aa19b91bd4)
-    (property "Reference" "FB?" (at 208.2292 123.19 90)
+    (property "Reference" "FB1" (at 208.2292 123.19 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "FerriteBead" (at 208.2292 125.73 90)
@@ -1628,7 +1628,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "FB?") (unit 1)
+          (reference "FB1") (unit 1)
         )
       )
     )
@@ -1637,7 +1637,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x05_Row_Letter_Last") (at 176.53 138.43 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 33c5f891-27c6-4561-ae8d-e7b8dfcebe4b)
-    (property "Reference" "J?" (at 175.26 127 0)
+    (property "Reference" "J1" (at 175.26 127 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PWR" (at 175.26 129.54 0)
@@ -1662,7 +1662,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "J?") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -1671,7 +1671,7 @@
   (symbol (lib_id "Device:C") (at 227.33 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c1c140d-13c5-488e-91cc-e85db597af60)
-    (property "Reference" "C?" (at 225.425 125.73 0)
+    (property "Reference" "C6" (at 225.425 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 225.425 128.27 0)
@@ -1688,7 +1688,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C?") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -1697,7 +1697,7 @@
   (symbol (lib_id "Device:C_Polarized") (at 214.63 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5265c74f-a57f-49a4-b53d-e4fbf516a46c)
-    (property "Reference" "C?" (at 218.44 140.0809 0)
+    (property "Reference" "C5" (at 218.44 140.0809 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 218.44 142.6209 0)
@@ -1714,7 +1714,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C?") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -1723,7 +1723,7 @@
   (symbol (lib_id "Device:C_Polarized") (at 81.28 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 54786b45-0837-4756-b25c-b9d34819286c)
-    (property "Reference" "C?" (at 84.201 150.6763 0)
+    (property "Reference" "C1" (at 84.201 150.6763 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 84.201 153.2132 0)
@@ -1740,7 +1740,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C?") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -1749,7 +1749,7 @@
   (symbol (lib_id "power:+12V") (at 26.67 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54c30752-9892-4561-b8e7-5743f9681d59)
-    (property "Reference" "#PWR?" (at 26.67 125.73 0)
+    (property "Reference" "#PWR01" (at 26.67 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 26.67 118.11 0)
@@ -1765,7 +1765,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -1774,7 +1774,7 @@
   (symbol (lib_id "Device:C") (at 265.43 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 55ae8d37-694d-4ee7-b088-64f880e72069)
-    (property "Reference" "C?" (at 269.24 140.9699 0)
+    (property "Reference" "C11" (at 269.24 140.9699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 269.24 143.5099 0)
@@ -1791,7 +1791,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C?") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -1800,7 +1800,7 @@
   (symbol (lib_id "power:GND") (at 127 172.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 56bf08a9-5d34-4a27-9be5-6af55092c433)
-    (property "Reference" "#PWR?" (at 127 179.07 0)
+    (property "Reference" "#PWR05" (at 127 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 127 177.1634 0)
@@ -1816,7 +1816,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -1825,7 +1825,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 257.81 138.43 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 57151463-9f41-4881-952d-5046a611e19e)
-    (property "Reference" "U?" (at 256.54 137.1599 0)
+    (property "Reference" "U1" (at 256.54 137.1599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TL072" (at 256.54 139.6999 0)
@@ -1848,7 +1848,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "U?") (unit 3)
+          (reference "U1") (unit 3)
         )
       )
     )
@@ -1857,7 +1857,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 191.77 130.81 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 695263f0-2c5e-4ada-9e8e-c40f77d91b59)
-    (property "Reference" "D?" (at 192.0875 124.46 0)
+    (property "Reference" "D1" (at 192.0875 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Schottky" (at 192.0875 127 0)
@@ -1874,7 +1874,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "D?") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -1883,7 +1883,7 @@
   (symbol (lib_id "power:GND") (at 81.28 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c9a8d38-168e-442b-97ee-3279ac889fd6)
-    (property "Reference" "#PWR?" (at 81.28 163.83 0)
+    (property "Reference" "#PWR03" (at 81.28 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 81.28 161.9234 0)
@@ -1899,7 +1899,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -1908,7 +1908,7 @@
   (symbol (lib_id "power:+12V") (at 280.67 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 728dd01d-7819-4341-aea0-008a8e484f73)
-    (property "Reference" "#PWR?" (at 280.67 132.08 0)
+    (property "Reference" "#PWR08" (at 280.67 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 280.67 123.19 0)
@@ -1924,7 +1924,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR08") (unit 1)
         )
       )
     )
@@ -1933,7 +1933,7 @@
   (symbol (lib_id "Switch:SW_SPDT") (at 50.8 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a5a16b9-da66-42bb-a529-0b67e4242f75)
-    (property "Reference" "SW?" (at 43.18 143.51 0)
+    (property "Reference" "SW1" (at 43.18 143.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ON/OFF/ON" (at 46.99 140.97 0)
@@ -1951,7 +1951,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "SW?") (unit 1)
+          (reference "SW1") (unit 1)
         )
       )
     )
@@ -1960,7 +1960,7 @@
   (symbol (lib_id "Device:C_Polarized") (at 214.63 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9106c957-e8c5-46cd-8a2b-6a06cdafbfb6)
-    (property "Reference" "C?" (at 218.44 132.4609 0)
+    (property "Reference" "C4" (at 218.44 132.4609 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 218.44 135.0009 0)
@@ -1977,7 +1977,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C?") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -1986,7 +1986,7 @@
   (symbol (lib_id "Device:C") (at 245.11 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ac83288b-cdf7-42ad-8782-66a6654d007f)
-    (property "Reference" "C6" (at 243.205 125.73 0)
+    (property "Reference" "C9" (at 243.205 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 243.205 128.27 0)
@@ -2003,7 +2003,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C6") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -2012,7 +2012,7 @@
   (symbol (lib_id "Device:C") (at 265.43 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ae769598-1210-436a-b10d-6ce42e800bcb)
-    (property "Reference" "C?" (at 269.24 133.3499 0)
+    (property "Reference" "C10" (at 269.24 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 269.24 135.8899 0)
@@ -2029,7 +2029,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C?") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -2038,7 +2038,7 @@
   (symbol (lib_id "Device:R_Potentiometer") (at 60.96 153.67 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b2b83827-78a6-4e36-bf85-29b119e8fe08)
-    (property "Reference" "RV?" (at 62.738 152.8353 0)
+    (property "Reference" "RV3" (at 62.738 152.8353 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 62.738 155.3722 0)
@@ -2056,7 +2056,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "RV?") (unit 1)
+          (reference "RV3") (unit 1)
         )
       )
     )
@@ -2065,7 +2065,7 @@
   (symbol (lib_id "power:GND") (at 26.67 172.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b5366654-c923-4466-9d64-939ae2a6754f)
-    (property "Reference" "#PWR?" (at 26.67 179.07 0)
+    (property "Reference" "#PWR02" (at 26.67 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 26.67 177.1634 0)
@@ -2081,7 +2081,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -2090,7 +2090,7 @@
   (symbol (lib_id "Device:R_Potentiometer") (at 36.83 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8b54b5c-bba5-4ae1-8dd4-d3b3134b5fa3)
-    (property "Reference" "RV?" (at 35.0521 146.4853 0)
+    (property "Reference" "RV1" (at 35.0521 146.4853 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 35.0521 149.0222 0)
@@ -2108,7 +2108,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "RV?") (unit 1)
+          (reference "RV1") (unit 1)
         )
       )
     )
@@ -2117,7 +2117,7 @@
   (symbol (lib_id "Device:R") (at 113.03 156.21 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc229241-3424-45ff-aefb-1d4e41d72bd5)
-    (property "Reference" "R?" (at 113.03 160.02 90)
+    (property "Reference" "R7" (at 113.03 160.02 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 113.03 162.56 90)
@@ -2134,7 +2134,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "R?") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -2143,7 +2143,7 @@
   (symbol (lib_id "Device:R") (at 36.83 158.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bcb7582a-d44e-40a1-9466-31e89777ed69)
-    (property "Reference" "R?" (at 38.608 157.9153 0)
+    (property "Reference" "R2" (at 38.608 157.9153 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "75k" (at 38.608 160.4522 0)
@@ -2160,7 +2160,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "R?") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -2169,7 +2169,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 191.77 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bd835905-d32c-45d6-8b4d-27b26195f8cd)
-    (property "Reference" "D?" (at 191.77 148.59 0)
+    (property "Reference" "D2" (at 191.77 148.59 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "D_Schottky" (at 191.77 151.13 0)
@@ -2186,7 +2186,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "D?") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -2195,7 +2195,7 @@
   (symbol (lib_id "power:GND") (at 163.83 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be46e172-dc42-4dd5-87eb-3512f6bb6d2a)
-    (property "Reference" "#PWR?" (at 163.83 146.05 0)
+    (property "Reference" "#PWR07" (at 163.83 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 163.83 143.51 0)
@@ -2211,7 +2211,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -2220,7 +2220,7 @@
   (symbol (lib_id "Device:R") (at 113.03 149.86 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c50d62f7-e042-4438-bc62-37137c598198)
-    (property "Reference" "R?" (at 113.03 144.78 90)
+    (property "Reference" "R6" (at 113.03 144.78 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100R" (at 113.03 147.32 90)
@@ -2237,7 +2237,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "R?") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -2246,7 +2246,7 @@
   (symbol (lib_id "power:-12V") (at 280.67 148.59 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cb2cebd8-8f16-426b-a9cf-c6d8cf0fd086)
-    (property "Reference" "#PWR?" (at 280.67 151.13 0)
+    (property "Reference" "#PWR010" (at 280.67 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "-12V" (at 280.67 153.67 0)
@@ -2262,7 +2262,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -2271,7 +2271,7 @@
   (symbol (lib_id "Transistor_BJT:BC547") (at 124.46 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d78e7427-60e8-44f0-aab7-63b1109c15e8)
-    (property "Reference" "Q?" (at 129.3114 149.0253 0)
+    (property "Reference" "Q1" (at 129.3114 149.0253 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC547" (at 129.54 151.13 0)
@@ -2289,7 +2289,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "Q?") (unit 1)
+          (reference "Q1") (unit 1)
         )
       )
     )
@@ -2298,7 +2298,7 @@
   (symbol (lib_id "Device:R") (at 57.15 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d9bb59c6-c2fe-4a93-9de6-f8bbb022ec16)
-    (property "Reference" "R?" (at 58.928 162.9953 0)
+    (property "Reference" "R4" (at 58.928 162.9953 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "39k" (at 58.928 165.5322 0)
@@ -2315,7 +2315,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "R?") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -2324,7 +2324,7 @@
   (symbol (lib_id "Device:R") (at 127 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dae4c54c-1fbe-479b-9709-9e752a719ef1)
-    (property "Reference" "R?" (at 128.778 164.2653 0)
+    (property "Reference" "R8" (at 128.778 164.2653 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 128.778 166.8022 0)
@@ -2341,7 +2341,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "R?") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -2350,7 +2350,7 @@
   (symbol (lib_id "Device:R") (at 36.83 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e014af2d-452a-4304-b078-c7aa182a11c4)
-    (property "Reference" "R?" (at 38.608 129.9753 0)
+    (property "Reference" "R1" (at 38.608 129.9753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "36k" (at 38.608 132.5122 0)
@@ -2367,7 +2367,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "R?") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -2376,7 +2376,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 100.33 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e919f735-8546-4365-a8ae-f540a9dad0ef)
-    (property "Reference" "U?" (at 101.6 144.7769 0)
+    (property "Reference" "U1" (at 101.6 144.7769 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL072" (at 101.6 142.24 0)
@@ -2399,7 +2399,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "U?") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -2408,7 +2408,7 @@
   (symbol (lib_id "power:Vdrive") (at 135.89 156.21 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f1cebe3f-0be1-4553-ad56-cf822900041d)
-    (property "Reference" "#PWR?" (at 132.08 151.13 0)
+    (property "Reference" "#PWR06" (at 132.08 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Vdrive" (at 139.7 156.2099 90)
@@ -2424,7 +2424,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -2433,7 +2433,7 @@
   (symbol (lib_id "Device:C") (at 198.12 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f226e83b-96c3-4634-ad89-5d0b64762112)
-    (property "Reference" "C?" (at 201.93 133.3499 0)
+    (property "Reference" "C2" (at 201.93 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 201.93 135.8899 0)
@@ -2450,7 +2450,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C?") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -2459,7 +2459,7 @@
   (symbol (lib_id "Device:C") (at 233.68 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc89ae83-5ba0-4357-9f77-6b12235ccb51)
-    (property "Reference" "C1" (at 231.775 125.73 0)
+    (property "Reference" "C7" (at 231.775 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 231.775 128.27 0)
@@ -2476,7 +2476,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470"
-          (reference "C1") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
