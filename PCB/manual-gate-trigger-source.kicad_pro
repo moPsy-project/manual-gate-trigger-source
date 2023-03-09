@@ -466,16 +466,20 @@
       "Gate Length Generator 4"
     ],
     [
-      "fb6762b1-53b2-4253-9ea8-56c83353230a",
-      "CV Input 1"
+      "4b82ecba-1315-4141-9095-435207086af3",
+      "Manual Input 1"
     ],
     [
-      "199ac3ae-221a-47d5-9e9f-e559d819f98b",
-      "CV Input 2"
+      "6870f894-f9dd-4c84-9e10-8dd917623eca",
+      "Manual Input 2"
     ],
     [
-      "dfca1d14-f5c9-49c7-bdd1-db3f878ec903",
-      "CV Input 3"
+      "05164ba2-60fe-4a23-ac8d-eb46fec4725a",
+      "Manual Input 3"
+    ],
+    [
+      "fd0933f7-8da4-4985-a361-ff361c3b6a05",
+      "CV Input"
     ]
   ],
   "text_variables": {}

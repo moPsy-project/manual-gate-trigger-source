@@ -422,7 +422,7 @@
   (symbol (lib_id "power:GND") (at 58.42 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 124e0d5c-4191-4902-95ae-c9fcf570701e)
-    (property "Reference" "#PWR?" (at 58.42 58.42 0)
+    (property "Reference" "#PWR04" (at 58.42 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 58.42 56.5134 0)
@@ -437,14 +437,8 @@
     (pin "1" (uuid e9486128-67a3-4877-a4b3-4aa4ea4cbd03))
     (instances
       (project "manual-gate-trigger-source"
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fb6762b1-53b2-4253-9ea8-56c83353230a"
-          (reference "#PWR?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/199ac3ae-221a-47d5-9e9f-e559d819f98b"
-          (reference "#PWR?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/dfca1d14-f5c9-49c7-bdd1-db3f878ec903"
-          (reference "#PWR?") (unit 1)
+        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -453,7 +447,7 @@
   (symbol (lib_id "Device:R") (at 44.45 41.91 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b25c996-91e4-4787-95d3-9c19462e17cc)
-    (property "Reference" "R?" (at 44.45 37.1942 90)
+    (property "Reference" "R2" (at 44.45 37.1942 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 44.45 39.7311 90)
@@ -469,14 +463,8 @@
     (pin "2" (uuid 2852c48c-18d2-4baf-9f2a-c616feb3b94f))
     (instances
       (project "manual-gate-trigger-source"
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fb6762b1-53b2-4253-9ea8-56c83353230a"
-          (reference "R?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/199ac3ae-221a-47d5-9e9f-e559d819f98b"
-          (reference "R?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/dfca1d14-f5c9-49c7-bdd1-db3f878ec903"
-          (reference "R?") (unit 1)
+        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -485,7 +473,7 @@
   (symbol (lib_id "Connector:AudioJack2_Ground_SwitchT") (at 30.48 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 967b42d7-0ab3-45d0-9600-7e560538831f)
-    (property "Reference" "J?" (at 29.845 33.02 0)
+    (property "Reference" "J1" (at 29.845 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IN1" (at 29.845 35.56 0)
@@ -502,14 +490,8 @@
     (pin "TN" (uuid 66de166b-fbb9-497c-b33f-879aeee2e69b))
     (instances
       (project "manual-gate-trigger-source"
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fb6762b1-53b2-4253-9ea8-56c83353230a"
-          (reference "J?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/199ac3ae-221a-47d5-9e9f-e559d819f98b"
-          (reference "J?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/dfca1d14-f5c9-49c7-bdd1-db3f878ec903"
-          (reference "J?") (unit 1)
+        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -518,7 +500,7 @@
   (symbol (lib_id "Diode:1N4148") (at 54.61 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5fe2ff5-567c-4445-9ecf-bf87b0585e35)
-    (property "Reference" "D?" (at 54.61 52.07 0)
+    (property "Reference" "D1" (at 54.61 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 54.61 47.0971 0)
@@ -534,14 +516,8 @@
     (pin "2" (uuid 15f2647f-f09d-4e49-a327-9081a3fac03d))
     (instances
       (project "manual-gate-trigger-source"
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fb6762b1-53b2-4253-9ea8-56c83353230a"
-          (reference "D?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/199ac3ae-221a-47d5-9e9f-e559d819f98b"
-          (reference "D?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/dfca1d14-f5c9-49c7-bdd1-db3f878ec903"
-          (reference "D?") (unit 1)
+        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -550,7 +526,7 @@
   (symbol (lib_id "Transistor_BJT:BC547") (at 55.88 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d40d9ab9-fbf1-439b-b745-77fc707160d9)
-    (property "Reference" "Q?" (at 60.7314 41.0753 0)
+    (property "Reference" "Q1" (at 60.7314 41.0753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC547" (at 60.7314 43.6122 0)
@@ -567,14 +543,8 @@
     (pin "3" (uuid 2d58b9bb-9b25-4cf7-bdfe-66c26f1a8d74))
     (instances
       (project "manual-gate-trigger-source"
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fb6762b1-53b2-4253-9ea8-56c83353230a"
-          (reference "Q?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/199ac3ae-221a-47d5-9e9f-e559d819f98b"
-          (reference "Q?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/dfca1d14-f5c9-49c7-bdd1-db3f878ec903"
-          (reference "Q?") (unit 1)
+        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
+          (reference "Q1") (unit 1)
         )
       )
     )
@@ -583,7 +553,7 @@
   (symbol (lib_id "power:GND") (at 36.83 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f540516a-4ba9-4ad3-b413-24288912b355)
-    (property "Reference" "#PWR?" (at 36.83 58.42 0)
+    (property "Reference" "#PWR03" (at 36.83 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 56.5134 0)
@@ -598,14 +568,8 @@
     (pin "1" (uuid ab621e44-87f9-4b52-8db3-7cd4b7390a53))
     (instances
       (project "manual-gate-trigger-source"
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fb6762b1-53b2-4253-9ea8-56c83353230a"
-          (reference "#PWR?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/199ac3ae-221a-47d5-9e9f-e559d819f98b"
-          (reference "#PWR?") (unit 1)
-        )
-        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/dfca1d14-f5c9-49c7-bdd1-db3f878ec903"
-          (reference "#PWR?") (unit 1)
+        (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
+          (reference "#PWR03") (unit 1)
         )
       )
     )
