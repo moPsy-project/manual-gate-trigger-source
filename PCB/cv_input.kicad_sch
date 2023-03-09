@@ -453,7 +453,7 @@
     (property "Value" "10k" (at 44.45 39.7311 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 44.45 43.688 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 44.45 43.688 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 44.45 41.91 0)
