@@ -422,7 +422,7 @@
   (symbol (lib_id "power:GND") (at 58.42 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 124e0d5c-4191-4902-95ae-c9fcf570701e)
-    (property "Reference" "#PWR04" (at 58.42 58.42 0)
+    (property "Reference" "#PWR042" (at 58.42 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 58.42 56.5134 0)
@@ -438,7 +438,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
@@ -447,13 +447,13 @@
   (symbol (lib_id "Device:R") (at 44.45 41.91 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b25c996-91e4-4787-95d3-9c19462e17cc)
-    (property "Reference" "R2" (at 44.45 37.1942 90)
+    (property "Reference" "R48" (at 44.45 37.1942 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 44.45 39.7311 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 44.45 43.688 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 44.45 43.688 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 44.45 41.91 0)
@@ -464,7 +464,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
-          (reference "R2") (unit 1)
+          (reference "R48") (unit 1)
         )
       )
     )
@@ -473,7 +473,7 @@
   (symbol (lib_id "Connector:AudioJack2_Ground_SwitchT") (at 30.48 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 967b42d7-0ab3-45d0-9600-7e560538831f)
-    (property "Reference" "J1" (at 29.845 33.02 0)
+    (property "Reference" "J10" (at 29.845 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IN1" (at 29.845 35.56 0)
@@ -491,7 +491,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
-          (reference "J1") (unit 1)
+          (reference "J10") (unit 1)
         )
       )
     )
@@ -500,7 +500,7 @@
   (symbol (lib_id "Diode:1N4148") (at 54.61 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5fe2ff5-567c-4445-9ecf-bf87b0585e35)
-    (property "Reference" "D1" (at 54.61 52.07 0)
+    (property "Reference" "D7" (at 54.61 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 54.61 47.0971 0)
@@ -517,7 +517,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
-          (reference "D1") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -526,7 +526,7 @@
   (symbol (lib_id "Transistor_BJT:BC547") (at 55.88 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d40d9ab9-fbf1-439b-b745-77fc707160d9)
-    (property "Reference" "Q1" (at 60.7314 41.0753 0)
+    (property "Reference" "Q6" (at 60.7314 41.0753 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC547" (at 60.7314 43.6122 0)
@@ -544,7 +544,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
-          (reference "Q1") (unit 1)
+          (reference "Q6") (unit 1)
         )
       )
     )
@@ -553,7 +553,7 @@
   (symbol (lib_id "power:GND") (at 36.83 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f540516a-4ba9-4ad3-b413-24288912b355)
-    (property "Reference" "#PWR03" (at 36.83 58.42 0)
+    (property "Reference" "#PWR041" (at 36.83 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 56.5134 0)
@@ -569,7 +569,7 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
     )
