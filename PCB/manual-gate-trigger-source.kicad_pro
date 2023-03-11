@@ -340,7 +340,9 @@
     "pinned_footprint_libs": [
       "moPsy"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "moPsy"
+    ]
   },
   "meta": {
     "filename": "manual-gate-trigger-source.kicad_pro",
