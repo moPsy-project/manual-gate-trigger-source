@@ -433,6 +433,7 @@
   )
 
   (no_connect (at 55.88 63.5) (uuid 212f9744-6426-4069-8cd8-bbc92c1ca430))
+  (no_connect (at 123.19 43.18) (uuid bf308003-2b1e-4148-811f-10fff88a707f))
 
   (wire (pts (xy 60.96 53.34) (xy 77.47 53.34))
     (stroke (width 0) (type default))
