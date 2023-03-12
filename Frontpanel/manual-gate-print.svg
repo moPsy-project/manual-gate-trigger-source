@@ -38,17 +38,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
      id="namedview134"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="83.390761"
-     inkscape:cy="349.31602"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-7.9275297"
+     inkscape:cy="213.78092"
      inkscape:current-layer="g128"
      inkscape:document-rotation="0"
      inkscape:snap-object-midpoints="true"
@@ -56,7 +56,10 @@
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
      inkscape:snap-midpoints="false"
-     inkscape:snap-others="true" />
+     inkscape:snap-others="true"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <defs
      id="defs14">
     <marker
@@ -638,7 +641,7 @@
     </g>
     <g
        id="g1531"
-       transform="translate(9.8782538e-7,25.956946)">
+       transform="translate(9.8782538e-7,29.196386)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.944882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 93.957091,133.53022 v 8.14736"
@@ -664,7 +667,7 @@
     </g>
     <g
        id="g1543"
-       transform="translate(9.8782539e-7,132.32344)">
+       transform="translate(9.8782539e-7,131.24363)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.944882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 93.957091,133.53022 v 8.14736"
@@ -690,7 +693,7 @@
     </g>
     <g
        id="g1555"
-       transform="translate(9.8782539e-7,238.69028)">
+       transform="translate(9.8782539e-7,233.29088)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.944882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 93.957091,133.53022 v 8.14736"
@@ -716,7 +719,7 @@
     </g>
     <g
        id="g1569"
-       transform="translate(-3.9999979,-8.5031154)">
+       transform="translate(-3.9999979,-7.4233054)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.944882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 97.484998,233.77209 h 4.822532 V 216.7202 h 3.96858 v 17.05189 h 13.64648"
@@ -745,7 +748,7 @@
     </g>
     <g
        id="g1581"
-       transform="translate(-3.9999979,97.863375)">
+       transform="translate(-3.9999979,94.623935)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.944882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 97.484998,233.77209 h 4.822532 V 216.7202 h 3.96858 v 17.05189 h 13.64648"
@@ -774,7 +777,7 @@
     </g>
     <g
        id="g1593"
-       transform="translate(-3.9999979,204.23026)">
+       transform="translate(-3.9999979,196.67116)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.944882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 97.484998,233.77209 h 4.822532 V 216.7202 h 3.96858 v 17.05189 h 13.64648"
