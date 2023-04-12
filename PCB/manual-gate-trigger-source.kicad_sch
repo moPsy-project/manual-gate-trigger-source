@@ -2280,7 +2280,7 @@
     (property "Value" "ON/OFF/ON" (at 96.52 102.87 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "moPsy:Switch_SPDT_TSM103A2_Befaco" (at 92.71 96.52 0)
+    (property "Footprint" "moPsy:Switch_SPDT_TSM103A2_Befaco_flush" (at 92.71 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 92.71 96.52 0)
