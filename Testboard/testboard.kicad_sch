@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 1c5578e4-330a-41ae-a1d1-d71bb4a1a163)
+
+  (paper "A4")
+
+  (title_block
+    (title "Manual Gate/Trigger testboard")
+    (date "2023-04-20")
+    (rev "v1")
+    (company "moPsy")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
