@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "moPsy")(type "KiCad")(uri "/home/tux/moPsy/moPsy-KiCad-resources/moPsy.kicad_sym")(options "")(descr ""))
+)
