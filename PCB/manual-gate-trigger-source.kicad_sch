@@ -1422,7 +1422,7 @@
     (property "Value" "LM317L_TO92" (at 42.545 148.1361 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (at 42.545 145.415 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-92_HandSolder" (at 42.545 145.415 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/snvs775k/snvs775k.pdf" (at 42.545 151.13 0)
