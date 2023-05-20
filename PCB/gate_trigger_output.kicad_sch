@@ -582,7 +582,7 @@
           (reference "J6") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
-          (reference "J8") (unit 1)
+          (reference "J9") (unit 1)
         )
       )
     )
@@ -591,7 +591,7 @@
   (symbol (lib_id "Device:R") (at 58.42 70.485 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c721b20-2752-4201-b74d-f7b54adfddf2)
-    (property "Reference" "R11" (at 60.96 68.8975 0)
+    (property "Reference" "R6" (at 60.96 68.8975 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 60.96 71.4375 0)
@@ -608,16 +608,16 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/5e147908-dd0e-44a6-bf7b-e0f4f3b88ce0"
-          (reference "R11") (unit 1)
+          (reference "R6") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/4d130511-3de2-468d-9ad3-9fd4dd47645e"
-          (reference "R16") (unit 1)
+          (reference "R19") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b83b5c1b-da69-40b5-857e-949eb4f1eab8"
-          (reference "R21") (unit 1)
+          (reference "R32") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
-          (reference "R26") (unit 1)
+          (reference "R38") (unit 1)
         )
       )
     )
@@ -626,7 +626,7 @@
   (symbol (lib_id "Transistor_BJT:BC547") (at 55.88 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3944ac81-b82d-44e9-be5e-1a5fe013050e)
-    (property "Reference" "Q2" (at 60.7314 43.6153 0)
+    (property "Reference" "Q1" (at 60.7314 43.6153 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC547" (at 60.96 45.72 0)
@@ -644,16 +644,16 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/5e147908-dd0e-44a6-bf7b-e0f4f3b88ce0"
-          (reference "Q2") (unit 1)
+          (reference "Q1") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/4d130511-3de2-468d-9ad3-9fd4dd47645e"
-          (reference "Q3") (unit 1)
+          (reference "Q2") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b83b5c1b-da69-40b5-857e-949eb4f1eab8"
-          (reference "Q4") (unit 1)
+          (reference "Q3") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
-          (reference "Q5") (unit 1)
+          (reference "Q4") (unit 1)
         )
       )
     )
@@ -662,7 +662,7 @@
   (symbol (lib_id "Device:R") (at 41.91 44.45 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8c25c746-e955-4633-93b9-6f852b6103d8)
-    (property "Reference" "R10" (at 41.91 46.99 90)
+    (property "Reference" "R8" (at 41.91 46.99 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2k2" (at 41.91 49.53 90)
@@ -679,16 +679,16 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/5e147908-dd0e-44a6-bf7b-e0f4f3b88ce0"
-          (reference "R10") (unit 1)
+          (reference "R8") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/4d130511-3de2-468d-9ad3-9fd4dd47645e"
-          (reference "R15") (unit 1)
+          (reference "R13") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b83b5c1b-da69-40b5-857e-949eb4f1eab8"
-          (reference "R20") (unit 1)
+          (reference "R23") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
-          (reference "R25") (unit 1)
+          (reference "R30") (unit 1)
         )
       )
     )
@@ -697,7 +697,7 @@
   (symbol (lib_id "Device:R") (at 66.04 62.23 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 98e3ee02-52d2-4208-b3a3-066d7661f6ee)
-    (property "Reference" "R13" (at 64.77 64.77 90)
+    (property "Reference" "R3" (at 64.77 64.77 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 68.58 64.77 90)
@@ -714,16 +714,16 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/5e147908-dd0e-44a6-bf7b-e0f4f3b88ce0"
-          (reference "R13") (unit 1)
+          (reference "R3") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/4d130511-3de2-468d-9ad3-9fd4dd47645e"
-          (reference "R18") (unit 1)
+          (reference "R16") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b83b5c1b-da69-40b5-857e-949eb4f1eab8"
-          (reference "R23") (unit 1)
+          (reference "R26") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
-          (reference "R28") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
@@ -755,10 +755,10 @@
           (reference "R14") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b83b5c1b-da69-40b5-857e-949eb4f1eab8"
-          (reference "R19") (unit 1)
+          (reference "R22") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
-          (reference "R24") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -896,7 +896,7 @@
           (reference "J7") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
-          (reference "J9") (unit 1)
+          (reference "J10") (unit 1)
         )
       )
     )
@@ -905,7 +905,7 @@
   (symbol (lib_id "Device:LED") (at 36.83 120.65 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e652bd03-bb8d-45a0-997a-64e4bcdd01d8)
-    (property "Reference" "D3" (at 40.64 120.65 90)
+    (property "Reference" "D1" (at 40.64 120.65 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "rt" (at 40.64 123.19 90)
@@ -922,13 +922,13 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/5e147908-dd0e-44a6-bf7b-e0f4f3b88ce0"
-          (reference "D3") (unit 1)
+          (reference "D1") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/4d130511-3de2-468d-9ad3-9fd4dd47645e"
-          (reference "D4") (unit 1)
+          (reference "D2") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b83b5c1b-da69-40b5-857e-949eb4f1eab8"
-          (reference "D5") (unit 1)
+          (reference "D3") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
           (reference "D6") (unit 1)
@@ -940,7 +940,7 @@
   (symbol (lib_id "Device:R") (at 66.04 52.07 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fca0cbc3-0b79-4b41-8c9f-6c15dc7a5ea0)
-    (property "Reference" "R12" (at 64.77 54.61 90)
+    (property "Reference" "R1" (at 64.77 54.61 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 68.58 54.61 90)
@@ -957,16 +957,16 @@
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/5e147908-dd0e-44a6-bf7b-e0f4f3b88ce0"
-          (reference "R12") (unit 1)
+          (reference "R1") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/4d130511-3de2-468d-9ad3-9fd4dd47645e"
-          (reference "R17") (unit 1)
+          (reference "R11") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b83b5c1b-da69-40b5-857e-949eb4f1eab8"
-          (reference "R22") (unit 1)
+          (reference "R21") (unit 1)
         )
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/b0ca186f-8794-49d8-ae6e-2d447887c3e3"
-          (reference "R27") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
