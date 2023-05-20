@@ -1083,7 +1083,7 @@
     (property "Value" "ON/ON" (at 50.8 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "moPsy:PB_Hor_7x7_2pole" (at 50.8 60.96 0)
+    (property "Footprint" "moPsy:PB_Hor_7x7_2pole_hybrid" (at 50.8 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 60.96 0)
