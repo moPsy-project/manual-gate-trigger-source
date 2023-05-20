@@ -632,7 +632,7 @@
     (property "Value" "BC547" (at 60.96 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (at 60.96 46.355 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-92_HandSolder" (at 60.96 46.355 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" (at 55.88 44.45 0)
