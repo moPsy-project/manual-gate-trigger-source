@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Manual Gate/Trigger Source")
+    (date "2023-05-20")
+    (rev "v2")
+    (company "moPsy")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -11799,7 +11806,7 @@
   (gr_text "https://github.com/moPsy-project/manual-gate-trigger-source" (at 151.967 97.532 90) (layer "B.SilkS") (tstamp 19847b64-c6e5-4049-b537-0298f0681e9c)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
-  (gr_text "Manual Gate/Trigger Source\nKey Board v1" (at 64.21 114.55) (layer "B.SilkS") (tstamp 93376b6a-c211-422f-b44c-1e620ea7f2eb)
+  (gr_text "Manual Gate/Trigger Source\nKey Board v1/v2" (at 64.21 114.55) (layer "B.SilkS") (tstamp 93376b6a-c211-422f-b44c-1e620ea7f2eb)
     (effects (font (size 0.6 0.6) (thickness 0.1) bold) (justify left bottom mirror))
   )
   (gr_text "CC BY-SA 4.0\nStefan Haun" (at 57.225 85.975) (layer "B.SilkS") (tstamp 940eae70-c161-4664-8da6-378cffc15460)
@@ -11814,7 +11821,7 @@
   (gr_text "Red Stripe" (at 112.1525 151.126) (layer "B.SilkS") (tstamp f55bd3e4-61c9-477c-886a-33e535d48590)
     (effects (font (size 0.6 0.6) (thickness 0.1) bold) (justify right bottom mirror))
   )
-  (gr_text "Manual Gate/Trigger Source\nInterface Board v1" (at 141.553 150.745) (layer "F.SilkS") (tstamp 34fe0a16-d577-4d64-8696-76c06388d1f2)
+  (gr_text "Manual Gate/Trigger Source\nInterface Board v2" (at 141.553 150.745) (layer "F.SilkS") (tstamp 34fe0a16-d577-4d64-8696-76c06388d1f2)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left bottom))
   )
 

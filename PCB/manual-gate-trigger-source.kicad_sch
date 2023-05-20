@@ -6,7 +6,8 @@
 
   (title_block
     (title "Manual Gate/Trigger Source")
-    (rev "1")
+    (date "2023-05-20")
+    (rev "v2")
     (company "moPsy")
   )
 
